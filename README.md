@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi, I'm Crisandolin
 
+- 🔭 Working as Fullstack Engineer [@BTPN]
+- 📫 How to reach me: Linkedin [@crisandolin]
+- 🌱 Currently interested in Backend and Android
+
+   [@BTPN]: <https://www.linkedin.com/company/pt-bank-btpn-tbk/>
+   [@crisandolin]: <https://www.linkedin.com/in/crisandolin/>
 <!--
 **crisandolindesmanrumahorbo/crisandolindesmanrumahorbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
