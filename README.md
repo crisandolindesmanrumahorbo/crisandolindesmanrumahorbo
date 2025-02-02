@@ -1,7 +1,6 @@
 ### Hi, I'm Crisandolin
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crisandolindesmanrumahorbo" alt="crisandolindesmanrumahorbo" /> </p>
 
-- 🔭 Working as Fullstack Engineer [@BTPN]
 - 📫 How to reach me: Linkedin [@crisandolin]
 - 🌱 Currently interested in Backend
 
