@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crisandolindesmanrumahorbo" alt="crisandolindesmanrumahorbo" /> </p>
 
 - 📫 How to reach me: Linkedin [@crisandolin]
-- 🌱 Currently interested in Backend
+- 🌱 Currently interested in Product Engineer
 
    [@BTPN]: <https://www.linkedin.com/company/pt-bank-btpn-tbk/>
    [@crisandolin]: <https://www.linkedin.com/in/crisandolin/>
